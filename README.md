@@ -1,3 +1,5 @@
+link of Chat GPT Project : https://chatgpt.com/share/6ac8b50f-146c-83e9-a756-3e3a2e9d350e
+
 # task-2
 
 # Pro Prompt — "Explain How to Write a Pathology Report"
